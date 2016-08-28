@@ -1,3 +1,3 @@
 # cnet
-A network library for game programmers
+A cross-platform network library for game programmers
 
